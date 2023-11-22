@@ -1,0 +1,6 @@
+Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description -- -j2 -l2
+Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description -- -j2 -l2
+Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description --target tests -- -j2 -l2
+Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description --target tests -- -j2 -l2
+Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description --target install -- -j2 -l2
+Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_description --target install -- -j2 -l2

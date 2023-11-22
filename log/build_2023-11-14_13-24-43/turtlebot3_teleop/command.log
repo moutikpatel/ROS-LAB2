@@ -1,0 +1,6 @@
+Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop -- -j2 -l2
+Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop -- -j2 -l2
+Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j2 -l2
+Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j2 -l2
+Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target install -- -j2 -l2
+Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target install -- -j2 -l2

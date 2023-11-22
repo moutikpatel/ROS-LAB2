@@ -1,0 +1,182 @@
+[0.074s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/moutik/Downloads/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup
+[0.193s] -- The C compiler identification is GNU 7.5.0
+[0.293s] -- The CXX compiler identification is GNU 7.5.0
+[0.299s] -- Check for working C compiler: /usr/bin/cc
+[0.422s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.423s] -- Detecting C compiler ABI info
+[0.551s] -- Detecting C compiler ABI info - done
+[0.565s] -- Detecting C compile features
+[0.963s] -- Detecting C compile features - done
+[0.968s] -- Check for working CXX compiler: /usr/bin/c++
+[1.121s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.122s] -- Detecting CXX compiler ABI info
+[1.272s] -- Detecting CXX compiler ABI info - done
+[1.291s] -- Detecting CXX compile features
+[1.906s] -- Detecting CXX compile features - done
+[1.910s] -- Using CATKIN_DEVEL_PREFIX: /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup/devel
+[1.910s] -- Using CMAKE_PREFIX_PATH: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop;/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[1.910s] -- This workspace overlays: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop;/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description;/opt/ros/melodic
+[1.933s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.934s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.934s] -- Using Debian Python package layout
+[1.934s] -- Using empy: /usr/bin/empy
+[2.180s] -- Using CATKIN_ENABLE_TESTING: ON
+[2.180s] -- Call enable_testing()
+[2.185s] -- Using CATKIN_TEST_RESULTS_DIR: /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup/test_results
+[2.215s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[2.215s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[2.235s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[2.237s] -- Looking for pthread.h
+[2.362s] -- Looking for pthread.h - found
+[2.363s] -- Looking for pthread_create
+[2.499s] -- Looking for pthread_create - not found
+[2.499s] -- Looking for pthread_create in pthreads
+[2.616s] -- Looking for pthread_create in pthreads - not found
+[2.617s] -- Looking for pthread_create in pthread
+[2.770s] -- Looking for pthread_create in pthread - found
+[2.771s] -- Found Threads: TRUE  
+[2.779s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[2.855s] -- catkin 0.7.29
+[2.855s] -- BUILD_SHARED_LIBS is on
+[3.466s] -- Configuring done
+[3.505s] -- Generating done
+[3.512s] -- Build files have been written to: /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup
+[3.518s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/moutik/Downloads/turtlebot3-master/turtlebot3_bringup -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup
+[3.522s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup -- -j2 -l2
+[3.636s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_cpp[0m
+[3.637s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_nodejs[0m
+[3.662s] [  0%] Built target turtlebot3_msgs_generate_messages_nodejs
+[3.663s] [  0%] Built target turtlebot3_msgs_generate_messages_cpp
+[3.684s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_lisp[0m
+[3.690s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_eus[0m
+[3.709s] [  0%] Built target turtlebot3_msgs_generate_messages_lisp
+[3.714s] [  0%] Built target turtlebot3_msgs_generate_messages_eus
+[3.738s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[3.738s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[3.759s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.762s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[3.783s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[3.789s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[3.810s] [  0%] Built target std_msgs_generate_messages_eus
+[3.819s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.834s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[3.845s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[3.860s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[3.871s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.886s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[3.898s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[3.905s] [  0%] Built target roscpp_generate_messages_py
+[3.927s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[3.932s] [  0%] Built target std_msgs_generate_messages_py
+[3.949s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.956s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[3.971s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[3.978s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.995s] [  0%] Built target roscpp_generate_messages_eus
+[4.009s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[4.020s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[4.039s] [  0%] Built target roscpp_generate_messages_lisp
+[4.041s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.064s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[4.064s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[4.090s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[4.091s] [  0%] Built target sensor_msgs_generate_messages_py
+[4.118s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_cpp[0m
+[4.121s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_eus[0m
+[4.143s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[4.148s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[4.162s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[4.174s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[4.187s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.206s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[4.207s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[4.233s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[4.234s] [  0%] Built target sensor_msgs_generate_messages_eus
+[4.261s] [  0%] Built target std_msgs_generate_messages_nodejs
+[4.261s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[4.282s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[4.284s] [35m[1mScanning dependencies of target turtlebot3_msgs_generate_messages_py[0m
+[4.307s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[4.309s] [  0%] Built target turtlebot3_msgs_generate_messages_py
+[4.331s] [  0%] Built target roscpp_generate_messages_cpp
+[4.336s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[4.358s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_py[0m
+[4.364s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.386s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[4.388s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[4.413s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[4.413s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[4.439s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[4.440s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[4.464s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_lisp[0m
+[4.467s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.491s] [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_nodejs[0m
+[4.491s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[4.514s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[4.542s] [35m[1mScanning dependencies of target turtlebot3_diagnostics[0m
+[4.587s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_diagnostics.dir/src/turtlebot3_diagnostics.cpp.o[0m
+[8.688s] [100%] [32m[1mLinking CXX executable devel/lib/turtlebot3_bringup/turtlebot3_diagnostics[0m
+[9.026s] [100%] Built target turtlebot3_diagnostics
+[9.049s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup -- -j2 -l2
+[9.243s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup --target tests -- -j2 -l2
+[9.360s] [35m[1mScanning dependencies of target tests[0m
+[9.382s] Built target tests
+[9.403s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup --target tests -- -j2 -l2
+[9.589s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup --target install -- -j2 -l2
+[9.694s] [  0%] Built target turtlebot3_msgs_generate_messages_cpp
+[9.700s] [  0%] Built target turtlebot3_msgs_generate_messages_nodejs
+[9.736s] [  0%] Built target turtlebot3_msgs_generate_messages_lisp
+[9.746s] [  0%] Built target turtlebot3_msgs_generate_messages_eus
+[9.783s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[9.788s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[9.824s] [  0%] Built target std_msgs_generate_messages_eus
+[9.832s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[9.873s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[9.882s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[9.915s] [  0%] Built target roscpp_generate_messages_py
+[9.928s] [  0%] Built target std_msgs_generate_messages_py
+[9.963s] [  0%] Built target geometry_msgs_generate_messages_eus
+[9.981s] [  0%] Built target roscpp_generate_messages_nodejs
+[10.007s] [  0%] Built target roscpp_generate_messages_eus
+[10.024s] [  0%] Built target roscpp_generate_messages_lisp
+[10.055s] [  0%] Built target std_msgs_generate_messages_cpp
+[10.075s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[10.098s] [  0%] Built target sensor_msgs_generate_messages_py
+[10.128s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[10.155s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[10.183s] [  0%] Built target std_msgs_generate_messages_lisp
+[10.203s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[10.231s] [  0%] Built target sensor_msgs_generate_messages_eus
+[10.255s] [  0%] Built target std_msgs_generate_messages_nodejs
+[10.284s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[10.304s] [  0%] Built target turtlebot3_msgs_generate_messages_py
+[10.345s] [  0%] Built target roscpp_generate_messages_cpp
+[10.355s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[10.399s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[10.409s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[10.454s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[10.455s] [  0%] Built target geometry_msgs_generate_messages_py
+[10.506s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[10.512s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[10.578s] [100%] Built target turtlebot3_diagnostics
+[10.621s] [36mInstall the project...[0m
+[10.641s] -- Install configuration: ""
+[10.642s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/lib/pkgconfig/turtlebot3_bringup.pc
+[10.643s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig.cmake
+[10.643s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/cmake/turtlebot3_bringupConfig-version.cmake
+[10.644s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/package.xml
+[10.649s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics
+[10.651s] -- Set runtime path of "/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/turtlebot3_diagnostics" to ""
+[10.652s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/lib/turtlebot3_bringup/create_udev_rules
+[10.653s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch
+[10.654s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_model.launch
+[10.654s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_core.launch
+[10.655s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_robot.launch
+[10.656s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_rpicamera.launch
+[10.656s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_remote.launch
+[10.658s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_lidar.launch
+[10.658s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/turtlebot3_realsense.launch
+[10.659s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes
+[10.660s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/launch/includes/description.launch.xml
+[10.661s] -- Installing: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_bringup/share/turtlebot3_bringup/99-turtlebot3-cdc.rules
+[10.668s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup' returned '0': CMAKE_PREFIX_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/x86_64-linux-gnu/pkgconfig:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_description/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_bringup --target install -- -j2 -l2

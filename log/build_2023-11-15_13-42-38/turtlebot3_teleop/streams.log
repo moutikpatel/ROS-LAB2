@@ -1,0 +1,26 @@
+[0.171s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop -- -j2 -l2
+[0.393s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop -- -j2 -l2
+[0.558s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j2 -l2
+[0.800s] Built target tests
+[0.834s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target tests -- -j2 -l2
+[1.036s] Invoking command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target install -- -j2 -l2
+[1.207s] [36mInstall the project...[0m
+[1.253s] -- Install configuration: ""
+[1.260s] + cd /home/moutik/Downloads/turtlebot3-master/turtlebot3_teleop
+[1.260s] + mkdir -p /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages
+[1.268s] + /usr/bin/env PYTHONPATH=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop/lib/python2.7/dist-packages:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_example/lib/python2.7/dist-packages:/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop /usr/bin/python2 /home/moutik/Downloads/turtlebot3-master/turtlebot3_teleop/setup.py build --build-base /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop install --root=/ --install-layout=deb --prefix=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop --install-scripts=/home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/bin
+[1.475s] running build
+[1.475s] running build_py
+[1.480s] running install
+[1.482s] running install_lib
+[1.486s] running install_egg_info
+[1.489s] Removing /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop-1.2.6.egg-info
+[1.489s] Writing /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/python2.7/dist-packages/turtlebot3_teleop-1.2.6.egg-info
+[1.507s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/pkgconfig/turtlebot3_teleop.pc
+[1.508s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/cmake/turtlebot3_teleopConfig.cmake
+[1.508s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/cmake/turtlebot3_teleopConfig-version.cmake
+[1.508s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/package.xml
+[1.509s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/lib/turtlebot3_teleop/turtlebot3_teleop_key
+[1.509s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/launch
+[1.510s] -- Up-to-date: /home/moutik/Downloads/turtlebot3-master/install/turtlebot3_teleop/share/turtlebot3_teleop/launch/turtlebot3_teleop_key.launch
+[1.524s] Invoked command in '/home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop' returned '0': /usr/bin/cmake --build /home/moutik/Downloads/turtlebot3-master/build/turtlebot3_teleop --target install -- -j2 -l2
